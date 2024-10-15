@@ -8,11 +8,11 @@ Linux Desktop Customization
 
 3. System fonts
 - installed a new font 'JetBrainsMono Nerd Font' and changed everything to it.
-- URL: https://www.nerdfonts.com/font-downloads
+- URL: https://www.nerdfonts.com/font-downloads (License: MIT License)
 
 4. System theme/styles
 - Intsalled a new gtk theme and changed the system theme to it using CSS.
-- URL: https://www.gnome-look.org/p/1681313
+- URL: https://www.gnome-look.org/p/1681313 (License: GPL v3.0)
 
 5. Windows border themes/styles, transparency
 - Added rounder corners to the panels using CSS
@@ -20,7 +20,7 @@ Linux Desktop Customization
 
 6. Icon sets
 - Installed a new icon set and applied it.
-- URL: https://www.gnome-look.org/p/1327720
+- URL: https://www.gnome-look.org/p/1327720 (License: GPL v3.0)
 
 7. Default desktop gadgets and panel elements
 - Added a new vertical panel to the desktop which consists of the gadgets like logout, shut down, restrat, etc.,
@@ -29,4 +29,4 @@ Linux Desktop Customization
 
 8. Editing GTK theme
 - Installed a new gtk theme and applied it using the appearence tab.
-- URL: https://www.gnome-look.org/p/1681313
+- URL: https://www.gnome-look.org/p/1681313 (License: GPL v3.0)
